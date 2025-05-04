@@ -1,0 +1,9 @@
+.idea
+**/node_modules/*
+**/.firebaserc
+
+.runtimeconfig.json
+.firebase/
+
+.env
+service-account.json
