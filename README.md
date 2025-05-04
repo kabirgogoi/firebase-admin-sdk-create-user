@@ -4,3 +4,5 @@
 2. Run `npm install`
 3. Run `npm start`
 4. Follow prompt
+
+[Read about service account here](https://firebase.google.com/docs/admin/setup#set-up-project-and-service-account)
