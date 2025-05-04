@@ -1,4 +1,4 @@
-# Create firebase admin user with admin role
+# Create firebase auth user for email password login
 
 1. Add a `service-account.json` to the root
 2. Run `npm install`
